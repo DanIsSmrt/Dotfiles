@@ -19,3 +19,6 @@ required packages
 - blueman-manager
 - waybar
 - dunst
+- spotify
+- pulseaudio
+- 

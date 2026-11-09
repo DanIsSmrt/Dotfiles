@@ -1,0 +1,4 @@
+"ui.background" = { fg = "#c6d0f5", bg = "#001121" }
+"ui.text" = { fg = "#c6d0f5" }
+"ui.cursor" = { fg = "#c6d0f5", bg = "#51a2da" }
+"ui.selection" = { bg = "#626880", fg = "#c6d0f5" }
